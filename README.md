@@ -62,7 +62,7 @@ Voice customer is important for understanding customer requirements and needs. F
 | 5 | Time to pack items in bag| 3 |
 | 6 | Time to load bags in cart| 0.5 |
 
-_Table 1: Current checkout time at the client organization_
+Table 1: Current checkout time at the client organization
 
 ## Pareto chart
 
@@ -106,7 +106,7 @@ Value stream mapping is used to improve the entire workflow. This means it takes
 
 ![](docs/Fig5_Valuestream_Before_implementation.png)
 
-_ Value Stream Mapping (Before Implementation)_
+Value Stream Mapping (Before Implementation)
 
 # Phase 3 – Analyze
 
@@ -268,7 +268,7 @@ Figure below shows the value stream map after implementing lean techniques. It c
 
 ![](docs/Fig16_Valuestream_after_implementation.png)
 
-_ Value stream mapping after implementation_
+ Value stream mapping after implementation
 
 # Phase 5 – Control
 
