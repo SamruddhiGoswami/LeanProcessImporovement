@@ -208,17 +208,6 @@ _Figure 9: Probability plot of average checkout time before implementation_
 
 _Figure 10: Probability plot of average checkout time after implementation_
 
-Figure 11 and Figure 12 shows the boxplot of average checkout time before and after implementing Lean techniques. This plot is useful for checking the spread of the data and also to observe if there are any underlying outliers present in the data.
-
-![](docs/Fig11_Boxplot_before.png)
-
-_Figure 11: Boxplot for average checkout time before implementation_
-
-
-![](docs/Fig12_Boxplot_after_implementation.png)
-
-_Figure 12: Boxplot for average checkout time after implementation_
-
 ## Forecasting
 
 It is very essential to predict the exact customer demands and understand the trends so as to cope up with the fluctuating demands. Forecasting methods will predict the demands accurately which will help the client to avoid excessive inventory and frequent stockouts. It will give a clear idea about what to purchase and when to purchase by using appropriate forecasting methods. Currently, they are ordering the items based on approximation because of which sometimes there is excess inventory. The team provided a solution where they can study the historical data and predict the future demands using a method called Moving average. It is important to predict the correct demands for dairy products as excessive order for these items will result in wastage since customers will not buy expired products. 
