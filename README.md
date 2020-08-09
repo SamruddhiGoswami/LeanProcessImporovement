@@ -41,13 +41,6 @@ The deliverables for this project will be:
 - Reducing time to search items by using Visual Management techniques such as 5s. Also, making sure that all items are in the most appropriate place by checking aisles after a regular time interval.
 - Manage inventory by using appropriate forecasting methods based on customer demands.
 
-## Resources
-
-- Time available: 7 weeks
-- Contact person: Owner of the store and staff members.
-- Data: Collected from the Indian Market.
-- Other: Lean Six Sigma resources available on canvas
-
 ## Project Plan
 
 A Gantt chart is a type of bar chart used to represent a project schedule. It represents the tasks on the vertical axis and timeline on the horizontal axis. The team prepared a Gantt chart to demonstrate the schedule of the project to meet the deadlines. It helped the team to determine each activity and any interdependencies between the tasks throughout the project duration.This chart shows the progress and deadlines for efficient completion of the project. Figure 2 shows the Gantt chart for the project.
@@ -169,27 +162,6 @@ is more, mainly during the rush hours.
 
 - There is not enough space in store to include any new counters as layout is cluttered.
 
-## Ishikawa diagram
-
-Ishikawa diagram which is also referred as Fishbone diagram is used to identify the causes for the different problems. It gives visual representation of possible cause of a problem, factors affecting the problems and solutions to resolve them. The root cause analysis gave a clear idea for a long checkout time at the supermarket. The four major causes were: Manpower, Materials, Management and Inventory. Figure 6 shows the Ishikawa diagram for the supermarket.
-
-![](docs/Fig6_Ishikawa.png)
-
-_Figure 6: Ishikawa diagram_
-
-**Materials:** As the items arrive in the warehouse from the supplier, there were quality issues like
- items getting damaged either during transportation or due to improper packaging. The management should suggest a change in mode of transportation and ensure proper packaging of items. This will help in getting good quality products which will reduce the waste due to damaged items.
-
-**Inventory:** As there was no particular forecasting method followed for ordering the items, the supermarket faced inventory management issues. The items were ordered without any proper schedule due to which the store faced stockouts and excess of inventory. To avoid stockouts for milk cans, butter and yogurt, weekly forecasting should be done as it is high in demand.
-
-**Manpower:** The employees working in the store were less knowledgeable about the software used at the store for the checkout purpose. This increased the customer checkout time as employees took more time for payments and scanning. If there are stock outs in the store, employees need to get the required items from the warehouse while the customer is waiting for checkout. This again led to an increase in customer checkout time.
-
-**Management:** Not every customer buys a large number of items. If a customer has less items for checkout, then he/she usually spends more time in the checkout line as compared to the time spent in shopping. So, it would be very convenient for the customers to have a separate checkout counter for customers having less than ten items. Also, having a self-checkout counter will save time for customers waiting in the checkout line.
-
-**Data collection:**
-
-Considering the current situation, the team asked the client to measure the average checkout time instead of measuring the time for each process individually for hypothesis testing as the team was not able to visit the store frequently.
-
 **Normality test:**
 
 It is essential to check for the normality of the data before proceeding for hypothesis testing. Figure 7 and Figure 9 shows the histogram and probability plot before implementing the Lean techniques. The data is approximately normal with 95% level of confidence.
@@ -249,19 +221,7 @@ _Figure 12: Boxplot for average checkout time after implementation_
 
 ## Forecasting
 
-It is very essential to predict the exact customer demands and understand the trends so as to cope up with the fluctuating demands. Forecasting methods will predict the demands accurately which will help the client to avoid excessive inventory and frequent stockouts. It will give a clear idea about what to purchase and when to purchase by using appropriate forecasting methods. Currently, they are ordering the items based on approximation because of which sometimes there is excess inventory. The team provided a solution where they can study the historical data and predict the future demands using a method called Moving average. It is important to predict the correct demands for dairy products as excessive order for these items will result in wastage since customers will not buy expired products. Figure 14, 15 and 16 shows the actual vs forecasted demand for three products- Milk, Butter and Yogurt respectively, that are consumed on a regular basis. The team collected the data for 10 weeks and predicted the demand using 2 weeks moving average.
-
-![](docs/Fig13_Forecasting.png)
-
-_Figure 13: Actual Vs Forecasted demands for Milk_
-
-![](docs/Fig14_Forecasting2.png)
-
-_Figure 14: Actual Vs Forecasted demands for Butter_
-
-![](docs/Fig15_forecasting3.png)
-
-_Figure 15: Actual Vs Forecasted demands for Yogurt_
+It is very essential to predict the exact customer demands and understand the trends so as to cope up with the fluctuating demands. Forecasting methods will predict the demands accurately which will help the client to avoid excessive inventory and frequent stockouts. It will give a clear idea about what to purchase and when to purchase by using appropriate forecasting methods. Currently, they are ordering the items based on approximation because of which sometimes there is excess inventory. The team provided a solution where they can study the historical data and predict the future demands using a method called Moving average. It is important to predict the correct demands for dairy products as excessive order for these items will result in wastage since customers will not buy expired products. 
 
 # Phase 4 – Improve
 
