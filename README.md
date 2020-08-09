@@ -23,7 +23,7 @@ For solving complex issues, one of the best methods that can be implemented is t
 
 ![](docs/Fig_1_DMAIC.png)
 
-_ Steps involved in DMAIC approach_
+Steps involved in DMAIC approach
 
 # Phase 1 - Define
 
@@ -47,7 +47,7 @@ A Gantt chart is a type of bar chart used to represent a project schedule. It re
 
 ![](docs/Fig2_Ganttchart.png)
 
-_ Gantt chart for process improvement plan_
+Gantt chart for process improvement plan
 
 ## Voice of Customer
 
@@ -66,11 +66,11 @@ _Table 1: Current checkout time at the client organization_
 
 ## Pareto chart
 
-Figure 3 below, highlights the important factors that impact the customer checkout time. It shows that customer wait time increases because of the various processes carried out before the customer leaves the supermarket.
+Figure below, highlights the important factors that impact the customer checkout time. It shows that customer wait time increases because of the various processes carried out before the customer leaves the supermarket.
 
 ![](docs/Fig3_Paretochart.png)
 
-_ Pareto chart for current checkout time_
+Pareto chart for current checkout time
 
 ## SIPOC
 
@@ -90,7 +90,7 @@ SIPOC constitutes of the following elements:
 
 ![](docs/Fig4_SIPOC.png)
 
-_ SIPOC for client organization_
+SIPOC for client organization
 
 # Phase 2 - Measure
 
@@ -190,23 +190,23 @@ Here, T0 \&gt; Tcritical. So, the null hypothesis will be rejected. This means t
 
 The calculation for the hypothesis testing is shown in appendix.
 
-Figure 8 and Figure 10 shows the histogram and probability plot after implementing Lean techniques.
+Figures below shows the histogram and probability plot before and after implementing Lean techniques.
 
 ![](docs/Fig7_Histogram_before_implementation.png)
 
-_ Histogram of average checkout time before implementation_
+Histogram of average checkout time before implementation
 
 ![](docs/Fig8_Histogram_after_implementation.png)
 
-_ Histogram of average checkout time after implementation_
+Histogram of average checkout time after implementation
 
 ![](docs/Fig9_probability_before_implementation.png)
 
-_ Probability plot of average checkout time before implementation_
+Probability plot of average checkout time before implementation
 
 ![](dpcs/Fig10_Probability_after_implementationpng.png)
 
-_ Probability plot of average checkout time after implementation_
+Probability plot of average checkout time after implementation
 
 ## Forecasting
 
@@ -244,7 +244,7 @@ Table 2 shows the FMEA implemented for the client. The key process steps are tak
 | 3 | Management | More waiting time in checkout line for customer with less than 10 items | More time in checkout line | 8 | Same checkout counters for all customers | 5 | No control | 5 | 200 | Separate checkout counter required for less than 10 items | Management |
 | 4 | Manpower | Less knowledge to operate store management software | More time for customer checkout | 7 | Untrained employees | 4 | No control | 8 | 224 | Provide training to employees | Manager |
 
-_Table 2 : FMEA for the client organization_
+Table 2 : FMEA for the client organization
 
 ## After state data collection
 
@@ -260,11 +260,11 @@ Table 3 shows the improved waiting time and the percentage after implementing th
 | 6 | Time to load bags in cart | 0.5 | 0.5 | 0 |
 | 7 | Total average checkout time | **19.5** | **16** | **17.95%** |
 
-_Table 3: Reduced Checkout Time after implementing Lean techniques_
+Table 3: Reduced Checkout Time after implementing Lean techniques
 
 ## Value Stream Mapping (After Implementation)
 
-Figure 15 shows the value stream map after implementing lean techniques. It clearly shows how the team was able to reduce the average checkout time by reducing the time in individual process.
+Figure below shows the value stream map after implementing lean techniques. It clearly shows how the team was able to reduce the average checkout time by reducing the time in individual process.
 
 ![](docs/Fig16_Valuestream_after_implementation.png)
 
@@ -276,11 +276,11 @@ The control charts show the changes in the process over time by measuring the va
 
 ![](docs/Fig17_Controlchart_before_implementation.png)
 
-_ Control chart for average checkout time before implementation_
+Control chart for average checkout time before implementation
 
 ![](docs/Fig18_Controlchart_after_implementation.png)
 
-_ Control chart for average checkout time after implementation_
+Control chart for average checkout time after implementation
 
 Environmental effects of before and after implementation:
 
