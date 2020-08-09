@@ -21,7 +21,7 @@ For any business, it is necessary to have good management of people, processes a
 
 For solving complex issues, one of the best methods that can be implemented is the DMAIC approach. This method can help in successful completion of a project as it provides a **continuous improvement platform**. This figure 1 (Swan, n.d.) below shows the stages involved in DMAIC, also some of the steps can be skipped based on the complexity of the problem.
 
-![](RackMultipart20200809-4-1the9hy_html_73195148e60f1040.png)
+![](docs/Fig_1_DMAIC.png)
 
 _Figure 1: Steps involved in DMAIC approach_
 
@@ -52,7 +52,7 @@ The deliverables for this project will be:
 
 A Gantt chart is a type of bar chart used to represent a project schedule. It represents the tasks on the vertical axis and timeline on the horizontal axis. The team prepared a Gantt chart to demonstrate the schedule of the project to meet the deadlines. It helped the team to determine each activity and any interdependencies between the tasks throughout the project duration.This chart shows the progress and deadlines for efficient completion of the project. Figure 2 shows the Gantt chart for the project.
 
-![](RackMultipart20200809-4-1the9hy_html_191246b8ca6e4c6a.png)
+![](docs/Fig2_Ganttchart.png)
 
 _Figure 2: Gantt chart for process improvement plan_
 
@@ -62,19 +62,12 @@ Voice customer is important for understanding customer requirements and needs. F
 
 | **No** | **Metric** | **Current Time taken (mins.)** |
 | --- | --- | --- |
-| 1 | Waiting time in checkout line
- | 6 |
-| 2 | Time to unload items from cart
- | 5 |
+| 1 | Waiting time in checkout line | 6 |
+| 2 | Time to unload items from cart | 5 |
 | 3 | Time taken for scanning items
- | 4
- |
-| 4 | Payment
- | 1 |
-| 5 | Time to pack items in bag
- | 3 |
-| 6 | Time to load bags in cart
- | 0.5 |
+| 4 | Payment| 1 |
+| 5 | Time to pack items in bag| 3 |
+| 6 | Time to load bags in cart| 0.5 |
 
 _Table 1: Current checkout time at the client organization_
 
@@ -82,7 +75,7 @@ _Table 1: Current checkout time at the client organization_
 
 Figure 3 below, highlights the important factors that impact the customer checkout time. It shows that customer wait time increases because of the various processes carried out before the customer leaves the supermarket.
 
-![](RackMultipart20200809-4-1the9hy_html_66cfcdf37aaa4cc5.png)
+![](docs/Fig3_Paretochart.png)
 
 _Figure 3: Pareto chart for current checkout time_
 
@@ -102,7 +95,7 @@ SIPOC constitutes of the following elements:
 
 **Customer:** Identifying the customers
 
-![](RackMultipart20200809-4-1the9hy_html_7c9cdff5bbc5410c.png)
+![](docs/Fig4_SIPOC.png)
 
 _Figure 4: SIPOC for client organization_
 
@@ -118,7 +111,7 @@ A customer survey was done in February to take a note of the waiting time at the
 
 Value stream mapping is used to improve the entire workflow. This means it takes into consideration everything starting from raw materials to the final product/service. The goal here is to optimize the entire process. It is represented in the form of a flowchart that takes all the people, processes and inventories. This will help to analyze different areas of process. Value stream map will help in maximizing value, support clear communications and encourage continuous improvement which is one of the core principles of lean six sigma. Thus, value streams will be advantageous in reducing the cycle time and increasing the efficiency of the system. The current process contains different stages like shopping for items, waiting in check-out line, customer reaches check-out counter, unloading items, scanning items, payment, pack items in bags and load bags in cart (&quot;Value Stream Mapping,&quot;, 2019). Figure 5 below shows the value stream map before improvement techniques were applied for the supermarket.
 
-![](RackMultipart20200809-4-1the9hy_html_8d9411e3dfa9146.png)
+![](docs/Fig5_Valuestream_Before_implementation.png)
 
 _Figure 5: Value Stream Mapping (Before Implementation)_
 
@@ -180,7 +173,7 @@ is more, mainly during the rush hours.
 
 Ishikawa diagram which is also referred as Fishbone diagram is used to identify the causes for the different problems. It gives visual representation of possible cause of a problem, factors affecting the problems and solutions to resolve them. The root cause analysis gave a clear idea for a long checkout time at the supermarket. The four major causes were: Manpower, Materials, Management and Inventory. Figure 6 shows the Ishikawa diagram for the supermarket.
 
-![](RackMultipart20200809-4-1the9hy_html_9f70871d21004380.png)
+![](docs/Fig6_Ishikawa.png)
 
 _Figure 6: Ishikawa diagram_
 
@@ -227,49 +220,46 @@ The calculation for the hypothesis testing is shown in appendix.
 
 Figure 8 and Figure 10 shows the histogram and probability plot after implementing Lean techniques.
 
-![](RackMultipart20200809-4-1the9hy_html_d73fe4c471ec6ebb.png)
+![](docs/Fig7_Histogram_before_implementation.png)
 
 _Figure 7: Histogram of average checkout time before implementation_
 
-![](RackMultipart20200809-4-1the9hy_html_8362038d4d8e2335.png)
+![](docs/Fig8_Histogram_after_implementation.png)
 
 _Figure 8: Histogram of average checkout time after implementation_
 
-![](RackMultipart20200809-4-1the9hy_html_f338869687138f5e.png)
+![](docs/Fig9_probability_before_implementation.png)
 
 _Figure 9: Probability plot of average checkout time before implementation_
 
-![](RackMultipart20200809-4-1the9hy_html_90ba28512df1e26a.png)
+![](dpcs/Fig10_Probability_after_implementationpng.png)
 
 _Figure 10: Probability plot of average checkout time after implementation_
 
 Figure 11 and Figure 12 shows the boxplot of average checkout time before and after implementing Lean techniques. This plot is useful for checking the spread of the data and also to observe if there are any underlying outliers present in the data.
 
-![](RackMultipart20200809-4-1the9hy_html_9c920d01ab1bda8b.png)
+![](docs/Fig11_Boxplot_before.png)
 
 _Figure 11: Boxplot for average checkout time before implementation_
 
-![](RackMultipart20200809-4-1the9hy_html_4c4ffe72f5d6e65d.png)
 
-![](RackMultipart20200809-4-1the9hy_html_2b92833cef3c50a.png)
+![](docs/Fig12_Boxplot_after_implementation.png)
 
 _Figure 12: Boxplot for average checkout time after implementation_
-
-![](RackMultipart20200809-4-1the9hy_html_940549332dfd9806.png)
 
 ## Forecasting
 
 It is very essential to predict the exact customer demands and understand the trends so as to cope up with the fluctuating demands. Forecasting methods will predict the demands accurately which will help the client to avoid excessive inventory and frequent stockouts. It will give a clear idea about what to purchase and when to purchase by using appropriate forecasting methods. Currently, they are ordering the items based on approximation because of which sometimes there is excess inventory. The team provided a solution where they can study the historical data and predict the future demands using a method called Moving average. It is important to predict the correct demands for dairy products as excessive order for these items will result in wastage since customers will not buy expired products. Figure 14, 15 and 16 shows the actual vs forecasted demand for three products- Milk, Butter and Yogurt respectively, that are consumed on a regular basis. The team collected the data for 10 weeks and predicted the demand using 2 weeks moving average.
 
-![](RackMultipart20200809-4-1the9hy_html_6f851667f9329031.png)
+![](docs/Fig13_Forecasting.png)
 
 _Figure 13: Actual Vs Forecasted demands for Milk_
 
-![](RackMultipart20200809-4-1the9hy_html_fb6ab5a9e24b5f07.png)
+![](docs/Fig14_Forecasting2.png)
 
 _Figure 14: Actual Vs Forecasted demands for Butter_
 
-![](RackMultipart20200809-4-1the9hy_html_81571a7664996502.png)
+![](docs/Fig15_forecasting3.png)
 
 _Figure 15: Actual Vs Forecasted demands for Yogurt_
 
@@ -313,12 +303,9 @@ Table 3 shows the improved waiting time and the percentage after implementing th
 
 | **No** | **Metric** | **Current time taken (mins.)** | **Goal (mins.)** | **Improvement** |
 | --- | --- | --- | --- | --- |
-| 1 | Average Waiting time in checkout line
- | 6 | 6 | 0 |
-| 2 | Time to unload items from cart
- | 5 | 3.5 | 30% |
-| 3 | Average Time taken for scanning items | 4 (up to 20 items)
- | 3.5 | 12.5% |
+| 1 | Average Waiting time in checkout line| 6 | 6 | 0 |
+| 2 | Time to unload items from cart| 5 | 3.5 | 30% |
+| 3 | Average Time taken for scanning items | 4 (up to 20 items)| 3.5 | 12.5% |
 | 4 | Payment | 1 | 1 | 0 |
 | 5 | Time to pack items in bag | 3 | 1.5 | 50% |
 | 6 | Time to load bags in cart | 0.5 | 0.5 | 0 |
@@ -330,7 +317,7 @@ _Table 3: Reduced Checkout Time after implementing Lean techniques_
 
 Figure 15 shows the value stream map after implementing lean techniques. It clearly shows how the team was able to reduce the average checkout time by reducing the time in individual process.
 
-![](RackMultipart20200809-4-1the9hy_html_575e02b59a1ace92.png)
+![](docs/Fig16_Valuestream_after_implementation.png)
 
 _Figure 16: Value stream mapping after implementation_
 
@@ -338,11 +325,11 @@ _Figure 16: Value stream mapping after implementation_
 
 The control charts show the changes in the process over time by measuring the variability in the consecutive data points. Thus, these charts monitor the effects of the implemented process improvement. The team recorded the checkout time for 20 observations and used the MR chart to compute the average checkout time. The average checkout time before implementation is represented in figure 16 using MR chart and the average checkout time turned out to be 19.5 minutes and the moving average was 3.71 minutes. The average checkout time decreased to 16 minutes after implementation and the moving average was 3.27 as shown in figure 17.
 
-![](RackMultipart20200809-4-1the9hy_html_cb45731b10cc32d.png)
+![](docs/Fig17_Controlchart_before_implementation.png)
 
 _Figure 17: Control chart for average checkout time before implementation_
 
-![](RackMultipart20200809-4-1the9hy_html_c2fc0082fa524ab2.png)
+![](docs/Fig18_Controlchart_after_implementation.png)
 
 _Figure 18: Control chart for average checkout time after implementation_
 
