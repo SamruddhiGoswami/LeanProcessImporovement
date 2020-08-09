@@ -19,11 +19,11 @@ For any business, it is necessary to have good management of people, processes a
 
 # Problem solution using DMAIC approach:
 
-For solving complex issues, one of the best methods that can be implemented is the DMAIC approach. This method can help in successful completion of a project as it provides a **continuous improvement platform**. This figure 1 (Swan, n.d.) below shows the stages involved in DMAIC, also some of the steps can be skipped based on the complexity of the problem.
+For solving complex issues, one of the best methods that can be implemented is the DMAIC approach. This method can help in successful completion of a project as it provides a **continuous improvement platform**. This figure (Swan, n.d.) below shows the stages involved in DMAIC, also some of the steps can be skipped based on the complexity of the problem.
 
 ![](docs/Fig_1_DMAIC.png)
 
-_Figure 1: Steps involved in DMAIC approach_
+Steps involved in DMAIC approach
 
 # Phase 1 - Define
 
@@ -41,20 +41,13 @@ The deliverables for this project will be:
 - Reducing time to search items by using Visual Management techniques such as 5s. Also, making sure that all items are in the most appropriate place by checking aisles after a regular time interval.
 - Manage inventory by using appropriate forecasting methods based on customer demands.
 
-## Resources
-
-- Time available: 7 weeks
-- Contact person: Owner of the store and staff members.
-- Data: Collected from the Indian Market.
-- Other: Lean Six Sigma resources available on canvas
-
 ## Project Plan
 
-A Gantt chart is a type of bar chart used to represent a project schedule. It represents the tasks on the vertical axis and timeline on the horizontal axis. The team prepared a Gantt chart to demonstrate the schedule of the project to meet the deadlines. It helped the team to determine each activity and any interdependencies between the tasks throughout the project duration.This chart shows the progress and deadlines for efficient completion of the project. Figure 2 shows the Gantt chart for the project.
+A Gantt chart is a type of bar chart used to represent a project schedule. It represents the tasks on the vertical axis and timeline on the horizontal axis. The team prepared a Gantt chart to demonstrate the schedule of the project to meet the deadlines. It helped the team to determine each activity and any interdependencies between the tasks throughout the project duration.This chart shows the progress and deadlines for efficient completion of the project. Figure below shows the Gantt chart for the project.
 
 ![](docs/Fig2_Ganttchart.png)
 
-_Figure 2: Gantt chart for process improvement plan_
+Gantt chart for process improvement plan
 
 ## Voice of Customer
 
@@ -69,19 +62,19 @@ Voice customer is important for understanding customer requirements and needs. F
 | 5 | Time to pack items in bag| 3 |
 | 6 | Time to load bags in cart| 0.5 |
 
-_Table 1: Current checkout time at the client organization_
+Table 1: Current checkout time at the client organization
 
 ## Pareto chart
 
-Figure 3 below, highlights the important factors that impact the customer checkout time. It shows that customer wait time increases because of the various processes carried out before the customer leaves the supermarket.
+Figure below, highlights the important factors that impact the customer checkout time. It shows that customer wait time increases because of the various processes carried out before the customer leaves the supermarket.
 
 ![](docs/Fig3_Paretochart.png)
 
-_Figure 3: Pareto chart for current checkout time_
+Pareto chart for current checkout time
 
 ## SIPOC
 
-It stands for Suppliers, Inputs, Process, Outputs and Customers. It provides a high-level view of how different processes work in any organization. It starts from Suppliers who provide inputs to the system, which is then processed, and final output is provided to customers. Thus, it focuses on identifying the aspects for which process improvement is needed (&quot;SIPOC&quot;, n.d.). For the Indian Market, the SIPOC was designed as shown in figure 4.
+It stands for Suppliers, Inputs, Process, Outputs and Customers. It provides a high-level view of how different processes work in any organization. It starts from Suppliers who provide inputs to the system, which is then processed, and final output is provided to customers. Thus, it focuses on identifying the aspects for which process improvement is needed (&quot;SIPOC&quot;, n.d.). For the Indian Market, the SIPOC was designed as shown in below figure.
 
 SIPOC constitutes of the following elements:
 
@@ -97,7 +90,7 @@ SIPOC constitutes of the following elements:
 
 ![](docs/Fig4_SIPOC.png)
 
-_Figure 4: SIPOC for client organization_
+SIPOC for client organization
 
 # Phase 2 - Measure
 
@@ -109,11 +102,11 @@ A customer survey was done in February to take a note of the waiting time at the
 
 ## Value Stream Mapping (Before implementation)
 
-Value stream mapping is used to improve the entire workflow. This means it takes into consideration everything starting from raw materials to the final product/service. The goal here is to optimize the entire process. It is represented in the form of a flowchart that takes all the people, processes and inventories. This will help to analyze different areas of process. Value stream map will help in maximizing value, support clear communications and encourage continuous improvement which is one of the core principles of lean six sigma. Thus, value streams will be advantageous in reducing the cycle time and increasing the efficiency of the system. The current process contains different stages like shopping for items, waiting in check-out line, customer reaches check-out counter, unloading items, scanning items, payment, pack items in bags and load bags in cart (&quot;Value Stream Mapping,&quot;, 2019). Figure 5 below shows the value stream map before improvement techniques were applied for the supermarket.
+Value stream mapping is used to improve the entire workflow. This means it takes into consideration everything starting from raw materials to the final product/service. The goal here is to optimize the entire process. It is represented in the form of a flowchart that takes all the people, processes and inventories. This will help to analyze different areas of process. Value stream map will help in maximizing value, support clear communications and encourage continuous improvement which is one of the core principles of lean six sigma. Thus, value streams will be advantageous in reducing the cycle time and increasing the efficiency of the system. The current process contains different stages like shopping for items, waiting in check-out line, customer reaches check-out counter, unloading items, scanning items, payment, pack items in bags and load bags in cart (&quot;Value Stream Mapping,&quot;, 2019). Figure below shows the value stream map before improvement techniques were applied for the supermarket.
 
 ![](docs/Fig5_Valuestream_Before_implementation.png)
 
-_Figure 5: Value Stream Mapping (Before Implementation)_
+Value Stream Mapping (Before Implementation)
 
 # Phase 3 – Analyze
 
@@ -169,30 +162,9 @@ is more, mainly during the rush hours.
 
 - There is not enough space in store to include any new counters as layout is cluttered.
 
-## Ishikawa diagram
-
-Ishikawa diagram which is also referred as Fishbone diagram is used to identify the causes for the different problems. It gives visual representation of possible cause of a problem, factors affecting the problems and solutions to resolve them. The root cause analysis gave a clear idea for a long checkout time at the supermarket. The four major causes were: Manpower, Materials, Management and Inventory. Figure 6 shows the Ishikawa diagram for the supermarket.
-
-![](docs/Fig6_Ishikawa.png)
-
-_Figure 6: Ishikawa diagram_
-
-**Materials:** As the items arrive in the warehouse from the supplier, there were quality issues like
- items getting damaged either during transportation or due to improper packaging. The management should suggest a change in mode of transportation and ensure proper packaging of items. This will help in getting good quality products which will reduce the waste due to damaged items.
-
-**Inventory:** As there was no particular forecasting method followed for ordering the items, the supermarket faced inventory management issues. The items were ordered without any proper schedule due to which the store faced stockouts and excess of inventory. To avoid stockouts for milk cans, butter and yogurt, weekly forecasting should be done as it is high in demand.
-
-**Manpower:** The employees working in the store were less knowledgeable about the software used at the store for the checkout purpose. This increased the customer checkout time as employees took more time for payments and scanning. If there are stock outs in the store, employees need to get the required items from the warehouse while the customer is waiting for checkout. This again led to an increase in customer checkout time.
-
-**Management:** Not every customer buys a large number of items. If a customer has less items for checkout, then he/she usually spends more time in the checkout line as compared to the time spent in shopping. So, it would be very convenient for the customers to have a separate checkout counter for customers having less than ten items. Also, having a self-checkout counter will save time for customers waiting in the checkout line.
-
-**Data collection:**
-
-Considering the current situation, the team asked the client to measure the average checkout time instead of measuring the time for each process individually for hypothesis testing as the team was not able to visit the store frequently.
-
 **Normality test:**
 
-It is essential to check for the normality of the data before proceeding for hypothesis testing. Figure 7 and Figure 9 shows the histogram and probability plot before implementing the Lean techniques. The data is approximately normal with 95% level of confidence.
+It is essential to check for the normality of the data before proceeding for hypothesis testing. Figure below shows the histogram and probability plot before implementing the Lean techniques. The data is approximately normal with 95% level of confidence.
 
 ## Hypothesis Testing
 
@@ -218,50 +190,27 @@ Here, T0 \&gt; Tcritical. So, the null hypothesis will be rejected. This means t
 
 The calculation for the hypothesis testing is shown in appendix.
 
-Figure 8 and Figure 10 shows the histogram and probability plot after implementing Lean techniques.
+Figures below shows the histogram and probability plot before and after implementing Lean techniques.
 
 ![](docs/Fig7_Histogram_before_implementation.png)
 
-_Figure 7: Histogram of average checkout time before implementation_
+Histogram of average checkout time before implementation
 
 ![](docs/Fig8_Histogram_after_implementation.png)
 
-_Figure 8: Histogram of average checkout time after implementation_
+Histogram of average checkout time after implementation
 
 ![](docs/Fig9_probability_before_implementation.png)
 
-_Figure 9: Probability plot of average checkout time before implementation_
+Probability plot of average checkout time before implementation
 
-![](dpcs/Fig10_Probability_after_implementationpng.png)
+![](docs/Fig10_Probability_after_implementation.png)
 
-_Figure 10: Probability plot of average checkout time after implementation_
-
-Figure 11 and Figure 12 shows the boxplot of average checkout time before and after implementing Lean techniques. This plot is useful for checking the spread of the data and also to observe if there are any underlying outliers present in the data.
-
-![](docs/Fig11_Boxplot_before.png)
-
-_Figure 11: Boxplot for average checkout time before implementation_
-
-
-![](docs/Fig12_Boxplot_after_implementation.png)
-
-_Figure 12: Boxplot for average checkout time after implementation_
+Probability plot of average checkout time after implementation
 
 ## Forecasting
 
-It is very essential to predict the exact customer demands and understand the trends so as to cope up with the fluctuating demands. Forecasting methods will predict the demands accurately which will help the client to avoid excessive inventory and frequent stockouts. It will give a clear idea about what to purchase and when to purchase by using appropriate forecasting methods. Currently, they are ordering the items based on approximation because of which sometimes there is excess inventory. The team provided a solution where they can study the historical data and predict the future demands using a method called Moving average. It is important to predict the correct demands for dairy products as excessive order for these items will result in wastage since customers will not buy expired products. Figure 14, 15 and 16 shows the actual vs forecasted demand for three products- Milk, Butter and Yogurt respectively, that are consumed on a regular basis. The team collected the data for 10 weeks and predicted the demand using 2 weeks moving average.
-
-![](docs/Fig13_Forecasting.png)
-
-_Figure 13: Actual Vs Forecasted demands for Milk_
-
-![](docs/Fig14_Forecasting2.png)
-
-_Figure 14: Actual Vs Forecasted demands for Butter_
-
-![](docs/Fig15_forecasting3.png)
-
-_Figure 15: Actual Vs Forecasted demands for Yogurt_
+It is very essential to predict the exact customer demands and understand the trends so as to cope up with the fluctuating demands. Forecasting methods will predict the demands accurately which will help the client to avoid excessive inventory and frequent stockouts. It will give a clear idea about what to purchase and when to purchase by using appropriate forecasting methods. Currently, they are ordering the items based on approximation because of which sometimes there is excess inventory. The team provided a solution where they can study the historical data and predict the future demands using a method called Moving average. It is important to predict the correct demands for dairy products as excessive order for these items will result in wastage since customers will not buy expired products. 
 
 # Phase 4 – Improve
 
@@ -295,7 +244,7 @@ Table 2 shows the FMEA implemented for the client. The key process steps are tak
 | 3 | Management | More waiting time in checkout line for customer with less than 10 items | More time in checkout line | 8 | Same checkout counters for all customers | 5 | No control | 5 | 200 | Separate checkout counter required for less than 10 items | Management |
 | 4 | Manpower | Less knowledge to operate store management software | More time for customer checkout | 7 | Untrained employees | 4 | No control | 8 | 224 | Provide training to employees | Manager |
 
-_Table 2 : FMEA for the client organization_
+Table 2 : FMEA for the client organization
 
 ## After state data collection
 
@@ -311,15 +260,15 @@ Table 3 shows the improved waiting time and the percentage after implementing th
 | 6 | Time to load bags in cart | 0.5 | 0.5 | 0 |
 | 7 | Total average checkout time | **19.5** | **16** | **17.95%** |
 
-_Table 3: Reduced Checkout Time after implementing Lean techniques_
+Table 3: Reduced Checkout Time after implementing Lean techniques
 
 ## Value Stream Mapping (After Implementation)
 
-Figure 15 shows the value stream map after implementing lean techniques. It clearly shows how the team was able to reduce the average checkout time by reducing the time in individual process.
+Figure below shows the value stream map after implementing lean techniques. It clearly shows how the team was able to reduce the average checkout time by reducing the time in individual process.
 
 ![](docs/Fig16_Valuestream_after_implementation.png)
 
-_Figure 16: Value stream mapping after implementation_
+ Value stream mapping after implementation
 
 # Phase 5 – Control
 
@@ -327,11 +276,11 @@ The control charts show the changes in the process over time by measuring the va
 
 ![](docs/Fig17_Controlchart_before_implementation.png)
 
-_Figure 17: Control chart for average checkout time before implementation_
+Control chart for average checkout time before implementation
 
 ![](docs/Fig18_Controlchart_after_implementation.png)
 
-_Figure 18: Control chart for average checkout time after implementation_
+Control chart for average checkout time after implementation
 
 Environmental effects of before and after implementation:
 
