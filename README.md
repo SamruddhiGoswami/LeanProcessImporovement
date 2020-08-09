@@ -23,7 +23,7 @@ For solving complex issues, one of the best methods that can be implemented is t
 
 ![](docs/Fig_1_DMAIC.png)
 
-_Figure 1: Steps involved in DMAIC approach_
+_ Steps involved in DMAIC approach_
 
 # Phase 1 - Define
 
@@ -47,7 +47,7 @@ A Gantt chart is a type of bar chart used to represent a project schedule. It re
 
 ![](docs/Fig2_Ganttchart.png)
 
-_Figure 2: Gantt chart for process improvement plan_
+_ Gantt chart for process improvement plan_
 
 ## Voice of Customer
 
@@ -70,7 +70,7 @@ Figure 3 below, highlights the important factors that impact the customer checko
 
 ![](docs/Fig3_Paretochart.png)
 
-_Figure 3: Pareto chart for current checkout time_
+_ Pareto chart for current checkout time_
 
 ## SIPOC
 
@@ -90,7 +90,7 @@ SIPOC constitutes of the following elements:
 
 ![](docs/Fig4_SIPOC.png)
 
-_Figure 4: SIPOC for client organization_
+_ SIPOC for client organization_
 
 # Phase 2 - Measure
 
@@ -106,7 +106,7 @@ Value stream mapping is used to improve the entire workflow. This means it takes
 
 ![](docs/Fig5_Valuestream_Before_implementation.png)
 
-_Figure 5: Value Stream Mapping (Before Implementation)_
+_ Value Stream Mapping (Before Implementation)_
 
 # Phase 3 – Analyze
 
@@ -194,19 +194,19 @@ Figure 8 and Figure 10 shows the histogram and probability plot after implementi
 
 ![](docs/Fig7_Histogram_before_implementation.png)
 
-_Figure 7: Histogram of average checkout time before implementation_
+_ Histogram of average checkout time before implementation_
 
 ![](docs/Fig8_Histogram_after_implementation.png)
 
-_Figure 8: Histogram of average checkout time after implementation_
+_ Histogram of average checkout time after implementation_
 
 ![](docs/Fig9_probability_before_implementation.png)
 
-_Figure 9: Probability plot of average checkout time before implementation_
+_ Probability plot of average checkout time before implementation_
 
 ![](dpcs/Fig10_Probability_after_implementationpng.png)
 
-_Figure 10: Probability plot of average checkout time after implementation_
+_ Probability plot of average checkout time after implementation_
 
 ## Forecasting
 
@@ -268,7 +268,7 @@ Figure 15 shows the value stream map after implementing lean techniques. It clea
 
 ![](docs/Fig16_Valuestream_after_implementation.png)
 
-_Figure 16: Value stream mapping after implementation_
+_ Value stream mapping after implementation_
 
 # Phase 5 – Control
 
@@ -276,11 +276,11 @@ The control charts show the changes in the process over time by measuring the va
 
 ![](docs/Fig17_Controlchart_before_implementation.png)
 
-_Figure 17: Control chart for average checkout time before implementation_
+_ Control chart for average checkout time before implementation_
 
 ![](docs/Fig18_Controlchart_after_implementation.png)
 
-_Figure 18: Control chart for average checkout time after implementation_
+_ Control chart for average checkout time after implementation_
 
 Environmental effects of before and after implementation:
 
