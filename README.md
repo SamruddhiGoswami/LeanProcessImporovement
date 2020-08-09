@@ -367,4 +367,3 @@ and retain the existing ones.
 
 Thus, the process improvement suggested by the team will aid in increasing the profitability of the
 supermarket. Also, the reduction of waste will help the supermarket to be environmentally friendly.
-
