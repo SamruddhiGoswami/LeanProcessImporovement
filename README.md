@@ -19,7 +19,7 @@ For any business, it is necessary to have good management of people, processes a
 
 # Problem solution using DMAIC approach:
 
-For solving complex issues, one of the best methods that can be implemented is the DMAIC approach. This method can help in successful completion of a project as it provides a **continuous improvement platform**. This figure 1 (Swan, n.d.) below shows the stages involved in DMAIC, also some of the steps can be skipped based on the complexity of the problem.
+For solving complex issues, one of the best methods that can be implemented is the DMAIC approach. This method can help in successful completion of a project as it provides a **continuous improvement platform**. This figure (Swan, n.d.) below shows the stages involved in DMAIC, also some of the steps can be skipped based on the complexity of the problem.
 
 ![](docs/Fig_1_DMAIC.png)
 
@@ -43,7 +43,7 @@ The deliverables for this project will be:
 
 ## Project Plan
 
-A Gantt chart is a type of bar chart used to represent a project schedule. It represents the tasks on the vertical axis and timeline on the horizontal axis. The team prepared a Gantt chart to demonstrate the schedule of the project to meet the deadlines. It helped the team to determine each activity and any interdependencies between the tasks throughout the project duration.This chart shows the progress and deadlines for efficient completion of the project. Figure 2 shows the Gantt chart for the project.
+A Gantt chart is a type of bar chart used to represent a project schedule. It represents the tasks on the vertical axis and timeline on the horizontal axis. The team prepared a Gantt chart to demonstrate the schedule of the project to meet the deadlines. It helped the team to determine each activity and any interdependencies between the tasks throughout the project duration.This chart shows the progress and deadlines for efficient completion of the project. Figure below shows the Gantt chart for the project.
 
 ![](docs/Fig2_Ganttchart.png)
 
@@ -74,7 +74,7 @@ Pareto chart for current checkout time
 
 ## SIPOC
 
-It stands for Suppliers, Inputs, Process, Outputs and Customers. It provides a high-level view of how different processes work in any organization. It starts from Suppliers who provide inputs to the system, which is then processed, and final output is provided to customers. Thus, it focuses on identifying the aspects for which process improvement is needed (&quot;SIPOC&quot;, n.d.). For the Indian Market, the SIPOC was designed as shown in figure 4.
+It stands for Suppliers, Inputs, Process, Outputs and Customers. It provides a high-level view of how different processes work in any organization. It starts from Suppliers who provide inputs to the system, which is then processed, and final output is provided to customers. Thus, it focuses on identifying the aspects for which process improvement is needed (&quot;SIPOC&quot;, n.d.). For the Indian Market, the SIPOC was designed as shown in below figure.
 
 SIPOC constitutes of the following elements:
 
@@ -102,7 +102,7 @@ A customer survey was done in February to take a note of the waiting time at the
 
 ## Value Stream Mapping (Before implementation)
 
-Value stream mapping is used to improve the entire workflow. This means it takes into consideration everything starting from raw materials to the final product/service. The goal here is to optimize the entire process. It is represented in the form of a flowchart that takes all the people, processes and inventories. This will help to analyze different areas of process. Value stream map will help in maximizing value, support clear communications and encourage continuous improvement which is one of the core principles of lean six sigma. Thus, value streams will be advantageous in reducing the cycle time and increasing the efficiency of the system. The current process contains different stages like shopping for items, waiting in check-out line, customer reaches check-out counter, unloading items, scanning items, payment, pack items in bags and load bags in cart (&quot;Value Stream Mapping,&quot;, 2019). Figure 5 below shows the value stream map before improvement techniques were applied for the supermarket.
+Value stream mapping is used to improve the entire workflow. This means it takes into consideration everything starting from raw materials to the final product/service. The goal here is to optimize the entire process. It is represented in the form of a flowchart that takes all the people, processes and inventories. This will help to analyze different areas of process. Value stream map will help in maximizing value, support clear communications and encourage continuous improvement which is one of the core principles of lean six sigma. Thus, value streams will be advantageous in reducing the cycle time and increasing the efficiency of the system. The current process contains different stages like shopping for items, waiting in check-out line, customer reaches check-out counter, unloading items, scanning items, payment, pack items in bags and load bags in cart (&quot;Value Stream Mapping,&quot;, 2019). Figure below shows the value stream map before improvement techniques were applied for the supermarket.
 
 ![](docs/Fig5_Valuestream_Before_implementation.png)
 
@@ -164,7 +164,7 @@ is more, mainly during the rush hours.
 
 **Normality test:**
 
-It is essential to check for the normality of the data before proceeding for hypothesis testing. Figure 7 and Figure 9 shows the histogram and probability plot before implementing the Lean techniques. The data is approximately normal with 95% level of confidence.
+It is essential to check for the normality of the data before proceeding for hypothesis testing. Figure below shows the histogram and probability plot before implementing the Lean techniques. The data is approximately normal with 95% level of confidence.
 
 ## Hypothesis Testing
 
@@ -204,7 +204,7 @@ Histogram of average checkout time after implementation
 
 Probability plot of average checkout time before implementation
 
-![](dpcs/Fig10_Probability_after_implementationpng.png)
+![](docs/Fig10_Probability_after_implementation.png)
 
 Probability plot of average checkout time after implementation
 
