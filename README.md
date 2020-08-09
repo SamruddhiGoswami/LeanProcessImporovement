@@ -64,7 +64,7 @@ Voice customer is important for understanding customer requirements and needs. F
 | --- | --- | --- |
 | 1 | Waiting time in checkout line | 6 |
 | 2 | Time to unload items from cart | 5 |
-| 3 | Time taken for scanning items
+| 3 | Time taken for scanning items | 4 |
 | 4 | Payment| 1 |
 | 5 | Time to pack items in bag| 3 |
 | 6 | Time to load bags in cart| 0.5 |
@@ -290,7 +290,7 @@ Table 2 shows the FMEA implemented for the client. The key process steps are tak
 | Sr No | Key Process step/input | Potential Failure Mode | Potential Failure Effects | SEV | Potential causes | OCC | Current Controls | DET | RPN | Actions | Response |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Inventory | Excess Inventory | Wastage of items | 7 | Lack of appropriate forecasting methods | 4 | Weekly order of items | 7 | 196 | Provide appropriate forecasting methods and check inventory before ordering | Manager |
-| Stockout of items | Customer needs not satisfied | 6 | Lack of appropriate forecasting methods | 3 | Order when need arises | 8 | 144 | Checking inventory on regular basis and order based on forecasting methods | Manager |
+|  | Stockout of items | Customer needs not satisfied | 6 | Lack of appropriate forecasting methods | 3 | Order when need arises | 8 | 144 | Checking inventory on regular basis and order based on forecasting methods | Manager |
 | 2 | Materials | Quality issues | Get rid of damaged items | 6 | Damage in transportation | 3 | No control | 3 | 54 | Ensure proper packing of items to avoid damage at arrival | Management |
 | 3 | Management | More waiting time in checkout line for customer with less than 10 items | More time in checkout line | 8 | Same checkout counters for all customers | 5 | No control | 5 | 200 | Separate checkout counter required for less than 10 items | Management |
 | 4 | Manpower | Less knowledge to operate store management software | More time for customer checkout | 7 | Untrained employees | 4 | No control | 8 | 224 | Provide training to employees | Manager |
